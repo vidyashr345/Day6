@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(182, 182, 246);
+}
+
+nav{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    height: 50px;
+}
+
+nav a{
+    color: aliceblue;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.container{
+    background-color: white;
+}
